@@ -32,10 +32,10 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "cupertino_icons",
-      "rootUri": "file:///Users/macbook/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.8",
+      "name": "english_words",
+      "rootUri": "file:///Users/macbook/.pub-cache/hosted/pub.dev/english_words-4.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "2.12"
     },
     {
       "name": "fake_async",
@@ -104,10 +104,22 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///Users/macbook/.pub-cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///Users/macbook/.pub-cache/hosted/pub.dev/path-1.9.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///Users/macbook/.pub-cache/hosted/pub.dev/provider-6.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "sky_engine",
@@ -167,10 +179,10 @@
       "name": "namer_app",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.7"
+      "languageVersion": "3.6"
     }
   ],
-  "generated": "2025-02-21T07:20:11.260184Z",
+  "generated": "2025-02-21T18:05:10.471088Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///Users/macbook/dev/flutter",
